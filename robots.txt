@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kharu.app/sitemap.xml
